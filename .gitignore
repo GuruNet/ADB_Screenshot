@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+build/
+dist/
+assets/icon-samples*/
+*.apk.idsig
+.env
+.env.*
+*.keystore
+*.jks
